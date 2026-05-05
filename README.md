@@ -1,2 +1,2 @@
-![Preview 1](assets/images/first.png)
-![Preview 2](assets/images/second.png)
+![Preview 1](assets/screenshots/first.png)
+![Preview 2](assets/screenshots/second.png)
